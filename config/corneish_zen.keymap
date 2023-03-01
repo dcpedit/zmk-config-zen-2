@@ -22,6 +22,7 @@
                                   &kp LGUI  &mo 1     &kp BSPC            &kp SPACE &mo 2     &kp RALT
                         >;
                 };
+                
                 lower_layer {
                         label = "SYMBOL";
                         bindings = <
